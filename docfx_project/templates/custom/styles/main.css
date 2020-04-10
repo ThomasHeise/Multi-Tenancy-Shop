@@ -1,0 +1,19 @@
+.navbar-inverse, #navbar{
+    background-color: dimgrey;
+}
+
+.navbar-inverse .navbar-nav > .active > a{
+    background-color: gray
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover{
+    background-color: gray
+}
+
+#logo{
+    height: 50px;
+}
+
+.sidetoc.shiftup {
+    bottom: 50px;
+}
