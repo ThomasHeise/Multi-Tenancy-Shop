@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTenancyShop.Web", "MultiTenancyShop.Web\MultiTenancyShop.Web.csproj", "{F70FBC42-AF4C-45E3-A90C-42670331909D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTenancyShop.Web", "src\MultiTenancyShop.Web\MultiTenancyShop.Web.csproj", "{EDF8D0F6-B4D0-4B4E-AB47-64EDB009126F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F70FBC42-AF4C-45E3-A90C-42670331909D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F70FBC42-AF4C-45E3-A90C-42670331909D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F70FBC42-AF4C-45E3-A90C-42670331909D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F70FBC42-AF4C-45E3-A90C-42670331909D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF8D0F6-B4D0-4B4E-AB47-64EDB009126F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF8D0F6-B4D0-4B4E-AB47-64EDB009126F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF8D0F6-B4D0-4B4E-AB47-64EDB009126F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF8D0F6-B4D0-4B4E-AB47-64EDB009126F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
